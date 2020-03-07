@@ -1,4 +1,4 @@
-# TM4C123GH6PM-nRF24L01P
+# TM4C123GH6PM-nRF24L01
 
 Driver library and example programs for using the nRF24L01+ 2.4 GHz transceiver with the TM4C123GXL development board or another device that uses the TM4C123GH6PM microcontroller.
 
